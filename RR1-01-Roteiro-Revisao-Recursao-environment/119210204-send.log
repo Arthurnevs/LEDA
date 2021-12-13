@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-03-14T14:22:03.197-0300</date>
+  <logger>JOSE ARTHUR NEVES DE BRITO</logger>
+  <level>FINE</level>
+  <message>File 119210204-JOSE ARTHUR NEVES DE BRITO.zip was received. It was sent by JOSE ARTHUR NEVES DE BRITO from IP 192.168.1.15 at 14-03-2021 14*22*03</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-03-14T15:39:39.210-0300</date>
+  <logger>JOSE ARTHUR NEVES DE BRITO</logger>
+  <level>FINE</level>
+  <message>File 119210204-JOSE ARTHUR NEVES DE BRITO.zip was received. It was sent by JOSE ARTHUR NEVES DE BRITO from IP 192.168.1.15 at 14-03-2021 15*39*39</message>
+</record>
